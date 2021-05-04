@@ -11,7 +11,7 @@ Langkah2
 
 # Tampilan desain database (CDM / PDM / ERD)
 
-<img src="Capture.PNG" alt="Girl in a jacket" width="500" height="600">
+<img src="Capture.PNG" alt="Girl in a jacket" width="600" height="400">
 
 
 # tampilan index
